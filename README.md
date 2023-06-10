@@ -14,6 +14,7 @@
 
 <p align="center">
      <a href="https://docs.vuestorefront.io/v2/">
+       
         Documentation
     </a> |
     <a href="https://demo.vuestorefront.io/">
